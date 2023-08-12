@@ -6,7 +6,7 @@ This webpage features a password generator that is 8-128 characters long and inc
 
 
 ## Executing program
-Website link:
+Website link: https://ayhaamb.github.io/password-generator/
 
 
 ## Photo of deployed website
